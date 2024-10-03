@@ -6,9 +6,14 @@ Google Dork Magic: Automatically runs a set of Google Dorks to sniff out sensiti
 Shodan Power: Tap into Shodan to see which ports and services are open on your target, and discover vulnerabilities linked to real-world exploits.
 
 Installation: 
+
 git clone https://github.com/BearClaw96/DorkShark.git
+
 cd DorkShark 
+
 chmod +x DorkShark 
+
 ./DorkShark 
+
 
 How To Use: 
